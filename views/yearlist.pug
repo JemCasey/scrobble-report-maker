@@ -1,0 +1,41 @@
+extends layout
+include mixins/_preloader
+include mixins/templates/_listItem
+
+block content
+	.container.container-narrow
+		.addList
+			form.col.s12#generateForm
+				.row
+					.input-field.col.s2
+						select#type(name='type')
+							option(value='album') Album
+							option(value='track') Song							
+						label Type of list
+					.input-field.col.s3
+						input#username(name='username',type='text' required)
+						label(for='username') Last.Fm Username
+					.input-field.col.s4
+						button.btn.waves-effect.waves-light#getListensBtn(type='button')
+							| Get Your #{new Date().getFullYear()} Release Listens
+							i.material-icons.right send
+			p To reorder an item, you can drag and drop, click the arrow buttons, or change the item's rank.
+			.createList
+				.row
+					.div.col.s12
+						h4
+							| Your List
+							span#count
+						ul.finalList(style="height: 500px; overflow: auto")
+					.div.col.s12#saveDiv(style='display:none;')
+						.input-field.col.s4
+							button.btn.waves-effect.waves-light#saveBtn(type='button')
+								| Save
+	.loadingList(style='display:none;')
+		+preloader()
+block script
+	+listItemTemplate()
+	script(type='text/javascript').
+		(function($) {
+			yearListModule().init();
+		})(jQuery);

@@ -1,0 +1,90 @@
+extends layout
+include mixins/_preloader
+include mixins/templates/_resultsTable
+
+block content
+	.container.container-narrow
+		.addList
+			h4
+				| Compare your Last.fm scrobbles with a music list
+			form.col.s12#listForm
+				.row
+					.input-field.col.s6
+						select#listId(name='listId')
+							option(value='',selected)
+							option(value='new') Create a new list
+						//- label Select a list
+				.row.mb0.textOptions
+					.input-field.col.s12
+						textarea#listText.materialize-textarea(name='listText',type='text',rows='10',placeholder='1	Artist 1	Title 1 \n2	Artist 2	Title 2 \n3	Artist 3	Title 3')
+						label(for='listText') Paste list below:
+				.row.mb0.textOptions
+					.input-field.col.s3
+						p(style='width:100%').text-bold
+							| Between rank, title, and artist:
+						p.inline
+							label
+								input.with-gap(name='fieldDelimiter', type='radio', checked, value='tab')
+								span Tab
+						p.inline.ml15
+							label
+								input.with-gap(name='fieldDelimiter', type='radio', value='comma')
+								span Comma
+					.input-field.col.s3
+						p(style='width:100%').text-bold
+							| Between list items:
+						p.inline
+							label
+								input.with-gap(name='itemDelimiter', type='radio', checked, value='newline')
+								span New line
+						p.inline.ml15
+							label
+								input.with-gap(name='itemDelimiter', type='radio', value='semicolon')
+								span Semicolon
+					.input-field.col.s3
+						p(style='width:100%').text-bold
+							| Text includes ranks:
+						p
+							label
+								input#ranked(type='checkbox', name='ranked', checked, value="true")
+								span
+				.row.textOptions
+					.input-field.col.s2
+						select#type(name='type')
+							option(value='track') Song
+							option(value='album') Album
+						label Type of list
+					.input-field.col.s3
+						input#name(name='name',type='text' required)
+						label(for='name') Name of list
+					.input-field.col.s2
+						input(name='source',type='text')
+						label(for='source') Source of list
+					.input-field.col.s2
+						input(name='year',type='text')
+						label(for='year') Year published			
+					.input-field.col.s3
+						p
+							label
+								input(type='checkbox',name='public',value="true")
+								span Save as public list												
+				.row
+					.input-field.col.s3.offset-s3
+						input(name='username',type='text' required)
+						label(for='username') Last.fm Username
+					.input-field.col.s3
+						button.btn.waves-effect.waves-light#analyzeBtn(type='button')
+							| Analyze
+							i.material-icons.right send
+		.loadingList(style='display:none;')
+			+preloader()
+		.viewList(style='display:none;')
+			h4 You've listened to <span id='countTypeSpan'></span>s on <span id='listNameSpan'></span>
+			h5 Total plays of songs: <span id='playCountSpan'></span>
+			.table
+block script
+	script(type='text/javascript').
+		(function($) {
+			listModule().init();
+		})(jQuery);
+	+resultsTableTemplate()

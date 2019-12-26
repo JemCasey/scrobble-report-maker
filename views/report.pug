@@ -1,0 +1,31 @@
+extends layout
+include mixins/_preloader
+include mixins/templates/_resultsTable
+
+block content
+	.container.container-narrow
+		.loadingList
+			+preloader()
+		.report(style='display:none;')
+			h4 #{list.name} #{ list.source && list.year ? `(${list.source}, ${list.year})` : (list.source ? `(${list.source})` : (list.year ? `(${list.year})` : '')) }
+			h5 #{username.charAt(0).toUpperCase() + username.substring(1)} has listened to <span id='count'></span> #{list.type}s on this list
+			h6 Total plays of songs: <span id='playcount'></span>
+			div
+				a.waves-effect.waves-light.btn(href=`/leaderboard/${list.slug}`)
+					i.material-icons.left view_list
+					| View leaderboard
+				a#copyLink.waves-effect.waves-light.btn.ml15
+					i.material-icons.left share
+					| Copy link
+				a#createChallenge.waves-effect.waves-light.btn.ml15
+					i.material-icons.left play_circle_filled
+					| Create challenge					
+			br
+			.table
+block script
+	script(type='text/javascript').
+		(function($) {
+			var params = !{JSON.stringify({ listId: list.slug, username })};
+			reportModule().init(params.listId, params.username);
+		})(jQuery);
+	+resultsTableTemplate()

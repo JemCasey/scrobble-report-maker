@@ -1,0 +1,21 @@
+mixin listItemTemplate()
+	script#listItemTemplate(type='text/x-handlebars-template')
+		|	<li draggable="true">
+		|		<div class="card horizontal">
+		|			<div style="padding-left:5px;padding-top:10px">
+		|				<i class="material-icons up" style="width:100%">arrow_drop_up</i>
+		|				<input class="rank-text" type="text" style="width:2rem;height:1rem;text-align:center;">		
+		|				<i class="material-icons down" style="width:100%">arrow_drop_down</i>
+		|			</div>		
+		|			<div class="card-image" style="padding:10px">
+		|				<img src="{{imageurl}}">
+		|			</div>
+		|			<div class="card-stacked">
+		|				<div class="card-content" style="padding:10px">
+		|					<i class="delete material-icons right">close</i>
+		|					<h6><span class="rank"></span><span class="title">{{name}}</span>	({{playcount}} plays)</h6>
+		|					<p class="artist text-muted">{{artist}}</p>
+		|				</div>
+		|			</div>
+		|		</div>
+		|	</li>

@@ -1,0 +1,500 @@
+1	Sgt. Pepper's Lonely Hearts Club Band	The Beatles
+2	Pet Sounds	The Beach Boys
+3	Revolver	The Beatles
+4	Highway 61 Revisited	Bob Dylan
+5	Rubber Soul	The Beatles
+6	What's Going On	Marvin Gaye
+7	Exile on Main St.	The Rolling Stones
+8	London Calling	The Clash
+9	Blonde On Blonde	Bob Dylan
+10	The Beatles ("The White Album")	The Beatles
+11	Sunrise	Elvis Presley
+12	Kind Of Blue	Miles Davis
+13	The Velvet Underground & Nico	The Velvet Underground
+14	Abbey Road	The Beatles
+15	Are You Experienced	The Jimi Hendrix Experience
+16	Blood On The Tracks	Bob Dylan
+17	Nevermind	Nirvana
+18	Born To Run	Bruce Springsteen
+19	Astral Weeks	Van Morrison
+20	Thriller	Michael Jackson
+21	The Great Twenty-Eight	Chuck Berry
+22	The Complete Recordings	Robert Johnson
+23	John Lennon/Plastic Ono Band	John Lennon
+24	Innervisions	Stevie Wonder
+25	Live At The Apollo	James Brown
+26	Rumours	Fleetwood Mac
+27	The Joshua Tree	U2
+28	Who's Next	The Who
+29	Led Zeppelin	Led Zeppelin
+30	Blue	Joni Mitchell
+31	Bringing It All Back Home	Bob Dylan
+32	Let It Bleed	The Rolling Stones
+33	Ramones	Ramones
+34	Music From Big Pink	The Band
+35	The Rise And Fall Of Ziggy Stardust And The Spiders From Mars	David Bowie
+36	Tapestry	Carole King
+37	Hotel California	Eagles
+38	The Anthology (1947-1972)	Muddy Waters
+39	Please Please Me	The Beatles
+40	Forever Changes	Love
+41	Never Mind The Bollocks, Here's The Sex Pistols	Sex Pistols
+42	The Doors	The Doors
+43	The Dark Side Of The Moon	Pink Floyd
+44	Horses	Patti Smith
+45	The Band	The Band
+46	Legend	Bob Marley & The Wailers
+47	A Love Supreme	John Coltrane
+48	It Takes A Nation Of Millions To Hold Us Back	Public Enemy
+49	At Fillmore East	The Allman Brothers Band
+50	Here's Little Richard	Little Richard
+51	Bridge Over Troubled Water	Simon And Garfunkel
+52	Greatest Hits	Al Green
+53	Meet The Beatles	The Beatles
+54	The Birth Of Soul: The Complete Atlantic Rhythm And Blues Recordings	Ray Charles
+55	Electric Ladyland	The Jimi Hendrix Experience
+56	Elvis Presley	Elvis Presley
+57	Songs In The Key Of Life	Stevie Wonder
+58	Beggars Banquet	The Rolling Stones
+59	Chronicle, Vol. 1	Creedence Clearwater Revival
+60	Trout Mask Replica	Captain Beefheart and his Magic Band
+61	Greatest Hits	Sly & The Family Stone
+62	Appetite For Destruction	Guns N' Roses
+63	Achtung Baby	U2
+64	Sticky Fingers	The Rolling Stones
+65	Back To Mono	Phil Spector
+66	Moondance	Van Morrison
+67	Kid A	Radiohead
+68	Off The Wall	Michael Jackson
+69	Led Zeppelin IV	Led Zeppelin
+70	The Stranger	Billy Joel
+71	Graceland	Paul Simon
+72	Super Fly	Curtis Mayfield
+73	Physical Graffiti	Led Zeppelin
+74	After The Gold Rush	Neil Young
+75	Star Time	James Brown
+76	Purple Rain	Prince
+77	Back In Black	AC/DC
+78	Otis Blue	Otis Redding
+79	Led Zeppelin II	Led Zeppelin
+80	Imagine	John Lennon
+81	The Clash	The Clash
+82	Harvest	Neil Young
+83	Axis: Bold As Love	The Jimi Hendrix Experience
+84	I Never Loved A Man The Way I Love You	Aretha Franklin
+85	Lady Soul	Aretha Franklin
+86	Born In The U.S.A.	Bruce Springsteen
+87	The Wall	Pink Floyd
+88	At Folsom Prison	Johnny Cash
+89	Dusty In Memphis	Dusty Springfield
+90	Talking Book	Stevie Wonder
+91	Goodbye Yellow Brick Road	Elton John
+92	20 Golden Greats	Buddy Holly
+93	Sign O' The Times	Prince
+94	40 Greatest Hits	Hank Williams
+95	Bitches Brew	Miles Davis
+96	Tommy	The Who
+97	The Freewheelin' Bob Dylan	Bob Dylan
+98	This Year's Model	Elvis Costello
+99	There's A Riot Goin' On	Sly & The Family Stone
+100	Odessey And Oracle	The Zombies
+101	In The Wee Small Hours	Frank Sinatra
+102	Fresh Cream	Cream
+103	Giant Steps	John Coltrane
+104	Sweet Baby James	James Taylor
+105	Modern Sounds In Country And Western Music	Ray Charles
+106	Rocket To Russia	Ramones
+107	Portrait Of A Legend: 1951-1964	Sam Cooke
+108	Hunky Dory	David Bowie
+109	Aftermath	The Rolling Stones
+110	Loaded	The Velvet Underground
+111	The Bends	Radiohead
+112	If You Can Believe Your Eyes And Ears	The Mamas & The Papas
+113	Court And Spark	Joni Mitchell
+114	Disraeli Gears	Cream
+115	The Who Sell Out	The Who
+116	Out Of Our Heads	The Rolling Stones
+117	Layla And Other Assorted Love Songs	Derek And The Dominos
+118	Late Registration	Kanye West
+119	At Last!	Etta James
+120	Sweetheart Of The Rodeo	The Byrds
+121	Stand!	Sly & The Family Stone
+122	The Harder They Come	Jimmy Cliff
+123	Raising Hell	Run-D.M.C
+124	Moby Grape	Moby Grape
+125	Pearl	Janis Joplin
+126	Catch A Fire	Bob Marley & The Wailers & The Wailers
+127	Younger Than Yesterday	The Byrds
+128	Raw Power	The Stooges
+129	Remain In Light	Talking Heads
+130	Marquee Moon	Television
+131	Paranoid	Black Sabbath
+132	Saturday Night Fever (Original Soundtrack)	Various Artists
+133	The Wild, The Innocent And The E Street Shuffle	Bruce Springsteen
+134	Ready To Die	The Notorious B.I.G
+135	Slanted And Enchanted	Pavement
+136	Greatest Hits	Elton John
+137	Tim	The Replacements
+138	The Chronic	Dr. Dre
+139	Rejuvenation	The Meters
+140	Parallel Lines	Blondie
+141	Live At The Regal	B.B. King
+142	A Christmas Gift For You	Phil Spector
+143	Gris-Gris	Dr. John
+144	Straight Outta Compton	N.W.A
+145	Aja	Steely Dan
+146	Surrealistic Pillow	Jefferson Airplane
+147	Déjà Vu	Crosby, Stills, Nash & Young
+148	Houses Of The Holy	Led Zeppelin
+149	Santana	Santana
+150	Darkness On The Edge Of Town	Bruce Springsteen
+151	Funeral	Arcade Fire
+152	The B-52's	The B-52's
+153	The Low End Theory	A Tribe Called Quest
+154	Moanin' In The Moonlight	Howlin' Wolf
+155	Pretenders	Pretenders
+156	Paul's Boutique	Beastie Boys
+157	Closer	Joy Division
+158	Captain Fantastic And The Brown Dirt Cowboy	Elton John
+159	Alive	Kiss
+160	Electric Warrior	T. Rex
+161	The Dock Of The Bay	Otis Redding
+162	OK Computer	Radiohead
+163	1999	Prince
+164	The Very Best Of Linda Ronstadt	Linda Ronstadt
+165	Let's Get It On	Marvin Gaye
+166	Imperial Bedroom	Elvis Costello
+167	Master Of Puppets	Metallica
+168	My Aim Is True	Elvis Costello
+169	Exodus	Bob Marley & The Wailers
+170	Live At Leeds	The Who
+171	The Notorious Byrd Brothers	The Byrds
+172	Every Picture Tells A Story	Rod Stewart
+173	Something/Anything?	Todd Rundgren
+174	Desire	Bob Dylan
+175	Close To You	Carpenters
+176	Rocks	Aerosmith
+177	One Nation Under A Groove	Parliament/Funkadelic
+178	The Anthology 1961 - 1977	Curtis Mayfield And The Impressions
+179	The Definitive Collection	ABBA
+180	The Rolling Stones Now!	The Rolling Stones
+181	Natty Dread	Bob Marley & The Wailers & The Wailers
+182	Fleetwood Mac	Fleetwood Mac
+183	Red Headed Stranger	Willie Nelson
+184	The Immaculate Collection	Madonna
+185	The Stooges	The Stooges
+186	Fresh	Sly & The Family Stone
+187	So	Peter Gabriel
+188	Buffalo Springfield Again	Buffalo Springfield
+189	Happy Trails	Quicksilver Messenger Service
+190	From Elvis In Memphis	Elvis Presley
+191	Fun House	The Stooges
+192	The Gilded Palace Of Sin	The Flying Burrito Brothers
+193	Dookie	Green Day
+194	Transformer	Lou Reed
+195	Blues Breakers With Eric Clapton	John Mayall
+196	Nuggets: Original Artyfacts From The First Psychedelic Era, 1965-1968	Various Artists
+197	Murmur	R.E.M
+198	The Best Of	Little Walter
+199	Is This It	The Strokes
+200	Highway To Hell	AC/DC
+201	The Downward Spiral	Nine Inch Nails
+202	Parsley, Sage, Rosemary And Thyme	Simon And Garfunkel
+203	Bad	Michael Jackson
+204	Modern Times	Bob Dylan
+205	Wheels Of Fire	Cream
+206	Dirty Mind	Prince
+207	Abraxas	Santana
+208	Tea For The Tillerman	Cat Stevens
+209	Ten	Pearl Jam
+210	Everybody Knows This Is Nowhere	Neil Young & Crazy Horse
+211	Wish You Were Here	Pink Floyd
+212	Crooked Rain, Crooked Rain	Pavement
+213	Tattoo You	The Rolling Stones
+214	Proud Mary: The Best Of Ike And Tina Turner	Ike And Tina Turner
+215	New York Dolls	New York Dolls
+216	Go Bo Diddley	Bo Diddley
+217	Two Steps From The Blues	Bobby Bland
+218	The Queen Is Dead	The Smiths
+219	Licensed To Ill	Beastie Boys
+220	Look-Ka Py Py	The Meters
+221	Loveless	My Bloody Valentine
+222	New Orleans Piano	Professor Longhair
+223	War	U2
+224	The Neil Diamond Collection	Neil Diamond
+225	American Idiot	Green Day
+226	Nebraska	Bruce Springsteen
+227	Doolittle	Pixies
+228	Paid In Full	Eric B. And Rakim
+229	Toys In The Attic	Aerosmith
+230	Nick Of Time	Bonnie Raitt
+231	A Night At The Opera	Queen
+232	The Kink Kronikles	The Kinks
+233	Mr. Tambourine Man	The Byrds
+234	Bookends	Simon And Garfunkel
+235	The Ultimate Collection	Patsy Cline
+236	Mr. Excitement!	Jackie Wilson
+237	The Who Sings My Generation	The Who
+238	Howlin' Wolf	Howlin' Wolf
+239	Like A Prayer	Madonna
+240	Can't Buy A Thrill	Steely Dan
+241	Let It Be	The Replacements
+242	Run-DMC	Run-DMC
+243	Black Sabbath	Black Sabbath
+244	The Marshall Mathers LP	Eminem
+245	The Jerry Lee Lewis Anthology: All Killer No Filler!	Jerry Lee Lewis
+246	Freak Out!	The Mothers Of Invention
+247	Live Dead	Grateful Dead
+248	The Shape Of Jazz To Come	Ornette Coleman
+249	Automatic For The People	R.E.M
+250	Reasonable Doubt	Jay-Z
+251	Low	David Bowie
+252	The Blueprint	Jay-Z
+253	The River	Bruce Springsteen
+254	Complete & Unbelievable: The Otis Redding Dictionary Of Soul	Otis Redding
+255	Metallica	Metallica
+256	Trans-Europe Express	Kraftwerk
+257	Whitney Houston	Whitney Houston
+258	The Kinks Are The Village Green Preservation Society	The Kinks
+259	The Velvet Rope	Janet Jackson
+260	Stardust	Willie Nelson
+261	American Beauty	Grateful Dead
+262	Crosby, Stills & Nash	Crosby, Stills & Nash
+263	Tracy Chapman	Tracy Chapman
+264	Workingman's Dead	Grateful Dead
+265	The Genius Of Ray Charles	Ray Charles
+266	Child Is Father To The Man	Blood, Sweat & Tears
+267	Quadrophenia	The Who
+268	Paul Simon	Paul Simon
+269	Psycho Candy	The Jesus And Mary Chain
+270	Some Girls	The Rolling Stones
+271	The Beach Boys Today!	The Beach Boys
+272	Dig Me Out	Sleater-Kinney
+273	Going To A Go-Go	Smokey Robinson And The Miracles
+274	Nightbirds	Labelle
+275	The Slim Shady LP	Eminem
+276	Mothership Connection	Parliament
+277	Rhythm Nation 1814	Janet Jackson
+278	Anthology Of American Folk Music	Various Artists
+279	Aladdin Sane	David Bowie
+280	All That You Can't Leave Behind	U2
+281	My Life	Mary J. Blige
+282	Folk Singer	Muddy Waters
+283	Can't Get Enough	Barry White
+284	The Cars	The Cars
+285	Music Of My Mind	Stevie Wonder
+286	I'm Still In Love With You	Al Green
+287	Los Angeles	X
+288	Anthem Of The Sun	Grateful Dead
+289	Something Else	The Kinks	The Kinks
+290	Call Me	Al Green
+291	Talking Heads: 77	Talking Heads
+292	The Basement Tapes	Bob Dylan And The Band
+293	White Light/White Heat	The Velvet Underground
+294	Kick Out The Jams	MC5
+295	Songs Of Love And Hate	Leonard Cohen
+296	Meat Is Murder	The Smiths
+297	We're Only In It For The Money	The Mothers Of Invention
+298	The College Dropout	Kanye West
+299	Weezer ("The Blue Album")	Weezer
+300	Master Of Reality	Black Sabbath
+301	Coat Of Many Colors	Dolly Parton
+302	Fear Of A Black Planet	Public Enemy
+303	John Wesley Harding	Bob Dylan
+304	Grace	Jeff Buckley
+305	Car Wheels On A Gravel Road	Lucinda Williams
+306	Odelay	Beck
+307	A Hard Day's Night	The Beatles
+308	Songs For Swingin' Lovers	Frank Sinatra
+309	Willy And The Poor Boys	Creedence Clearwater Revival
+310	Blood Sugar Sex Magik	Red Hot Chili Peppers
+311	The Sun Records Collection	Various Artists
+312	Nothing's Shocking	Jane's Addiction
+313	Unplugged In New York	Nirvana
+314	The Miseducation Of Lauryn Hill	Lauryn Hill
+315	Damn The Torpedoes	Tom Petty And The Heartbreakers
+316	The Velvet Underground	The Velvet Underground
+317	Surfer Rosa	Pixies
+318	Back Stabbers	The O'Jays
+319	Burnin'	Bob Marley & The Wailers & The Wailers
+320	Amnesiac	Radiohead
+321	Pink Moon	Nick Drake
+322	Sail Away	Randy Newman
+323	Ghost In The Machine	The Police
+324	Station To Station	David Bowie
+325	Slowhand	Eric Clapton
+326	Disintegration	The Cure
+327	Exile In Guyville	Liz Phair
+328	Daydream Nation	Sonic Youth
+329	In The Jungle Groove	James Brown
+330	Tonight's The Night	Neil Young
+331	Help!	The Beatles
+332	Shoot Out The Lights	Richard & Linda Thompson
+333	Wild Gift	X
+334	Squeezing Out Sparks	Graham Parker
+335	Superunknown	Soundgarden
+336	In Rainbows	Radiohead
+337	Aqualung	Jethro Tull
+338	Cheap Thrills	Big Brother And The Holding Company
+339	The Heart Of Saturday Night	Tom Waits
+340	Damaged	Black Flag
+341	Play	Moby
+342	Violator	Depeche Mode
+343	Bat Out Of Hell	Meat Loaf
+344	Berlin	Lou Reed
+345	Stop Making Sense	Talking Heads
+346	3 Feet High And Rising	De La Soul
+347	The Piper At The Gates Of Dawn	Pink Floyd
+348	At Newport 1960	Muddy Waters
+349	The Black Album	Jay-Z
+350	Roger The Engineer	The Yardbirds
+351	Rust Never Sleeps	Neil Young & Crazy Horse
+352	Brothers In Arms	Dire Straits
+353	My Beautiful Dark Twisted Fantasy	Kanye West
+354	52nd Street	Billy Joel
+355	Having A Rave Up With The Yardbirds	The Yardbirds
+356	12 Songs	Randy Newman
+357	Between The Buttons	The Rolling Stones
+358	Sketches Of Spain	Miles Davis
+359	Honky Chateau	Elton John
+360	Singles Going Steady	Buzzcocks
+361	Stankonia	OutKast
+362	Siamese Dream	Smashing Pumpkins
+363	Substance	New Order
+364	L.A. Woman	The Doors
+365	Rage Against The Machine	Rage Against The Machine
+366	American Recordings	Johnny Cash
+367	Ray Of Light	Madonna
+368	Eagles	Eagles
+369	Louder Than Bombs	The Smiths
+370	Mott	Mott The Hoople
+371	Whatever People Say I Am, That's What I'm Not	Arctic Monkeys
+372	Reggatta De Blanc	The Police
+373	Volunteers	Jefferson Airplane
+374.Siren	Roxy Music
+375	Late For The Sky	Jackson Browne
+376	Post	Björk
+377	The Ultimate Collection (1948 - 1990)	John Lee Hooker
+378	(What's The Story) Morning Glory?	Oasis
+379	CrazySexyCool	TLC
+380	Funky Kingston	Toots And The Maytals
+381	The Smile Sessions	The Beach Boys
+382	Modern Lovers	Modern Lovers
+383	More Songs About Buildings And Food	Talking Heads
+384	A Quick One (Happy Jack)	The Who
+385	Love And Theft	Bob Dylan
+386	Pretzel Logic	Steely Dan
+387	Enter The Wu-Tang: 36 Chambers	Wu-Tang Clan
+388	The Indestructible Beat Of Soweto	Various Artists
+389	The End Of The Innocence	Don Henley
+390	Elephant	The White Stripes
+391	The Pretender	Jackson Browne
+392	Let It Be	The Beatles
+393	Kala	M.I.A
+394	Good Old Boys	Randy Newman
+395	Sound Of Silver	LCD Soundsystem
+396	For Your Pleasure	Roxy Music
+397	Blue Lines	Massive Attack
+398	Eliminator	ZZ Top
+399	Rain Dogs	Tom Waits
+400	Anthology	The Temptations
+401	Californication	Red Hot Chili Peppers
+402	Illmatic	Nas
+403	(Pronounced Leh-Nerd Skin-Nerd)	Lynyrd Skynyrd
+404	Dr. John's Gumbo	Dr. John
+405	Radio City	Big Star
+406	Rid Of Me	PJ Harvey
+407	Sandinista!	The Clash
+408	I Do Not Want What I Haven't Got	Sinead O'Connor
+409	Strange Days	The Doors
+410	Time Out Of Mind	Bob Dylan
+411	461 Ocean Boulevard	Eric Clapton
+412	Pink Flag	Wire
+413	Double Nickels On The Dime	Minutemen
+414	Beauty And The Beat	Go-Go's
+415	Van Halen	Van Halen
+416	Mule Variations	Tom Waits
+417	Boy	U2
+418	Band On The Run	Wings
+419	Dummy	Portishead
+420	The "Chirping" Crickets	Buddy Holly
+421	The Best Of The Girl Groups, Volumes 1 And 2	Various Artists
+422	Presenting The Fabulous Ronettes Featuring Veronica	The Ronettes
+423	Anthology	The Supremes
+424	The Rising	Bruce Springsteen
+425	Grievous Angel	Gram Parsons
+426	At Budokan	Cheap Trick
+427	Sleepless	Peter Wolf
+428	Outlandos D'Amour	The Police
+429	Another Green World	Brian Eno
+430	Vampire Weekend	Vampire Weekend
+431	Stories From The City, Stories From The Sea	PJ Harvey
+432	Here Come The Warm Jets	Brian Eno
+433	All Things Must Pass	George Harrison
+434	Number 1 Record	Big Star
+435	In Utero	Nirvana
+436	Sea Change	Beck
+437	Tha Carter III	Lil Wayne
+438	Boys Don't Cry	The Cure
+439	Live At The Harlem Square Club, 1963	Sam Cooke
+440	Rum Sodomy And The Lash	The Pogues
+441	Suicide	Suicide
+442	Q: Are We Not Men? A: We Are Devo!	Devo
+443	In Color	Cheap Trick
+444	The World Is A Ghetto	War
+445	Fly Like An Eagle	Steve Miller Band
+446	Back In The USA	MC5
+447	Getz/Gilberto	Stan Getz And Joao Gilberto Featuring Antonio Carlos Jobim
+448	Synchronicity	The Police
+449	Third/Sister Lovers	Big Star
+450	For Everyman	Jackson Browne
+451	Back To Black	Amy Winehouse
+452	John Prine	John Prine
+453	Strictly Business	EPMD
+454	Love It To Death	Alice Cooper
+455	How Will The Wolf Survive?	Los Lobos
+456	Here, My Dear	Marvin Gaye
+457	Z	My Morning Jacket
+458	Tumbleweed Connection	Elton John
+459	Golden Hits	The Drifters
+460	Live Through This	Hole
+461	Metal Box	Public Image Ltd
+462	Document	R.E.M
+463	Heaven Up Here	Echo & The Bunnymen
+464	Hysteria	Def Leppard
+465	69 Love Songs	The Magnetic Fields
+466	A Rush Of Blood To The Head	Coldplay
+467	Tunnel Of Love	Bruce Springsteen
+468	The Paul Butterfield Blues Band	The Paul Butterfield Blues Band
+469	The Score	Fugees
+470	Radio	LL Cool J
+471	I Want To See The Bright Lights Tonight	Richard & Linda Thompson
+472	Faith	George Michael
+473	The Smiths	The Smiths
+474	Proxima Estacion Esperanza	Manu Chao
+475	Armed Forces	Elvis Costello And The Attractions
+476	Life After Death	The Notorious B.I.G
+477	Down Every Road	Merle Haggard
+478	All Time Greatest Hits	Loretta Lynn
+479	Maggot Brain	Funkadelic
+480	Only Built 4 Cuban Linx	Raekwon
+481	Voodoo	D'Angelo
+482	Guitar Town	Steve Earle
+483	Entertainment!	Gang Of Four
+484	All The Young Dudes	Mott The Hoople
+485	Vitalogy	Pearl Jam
+486	That's The Way Of The World	Earth, Wind & Fire
+487	She's So Unusual	Cyndi Lauper
+488	New Day Rising	Hüsker Dü
+489	Destroyer	Kiss
+490	Tres Hombres	ZZ Top
+491	Born Under A Bad Sign	Albert King
+492	Touch	Eurythmics
+493	Yankee Hotel Foxtrot	Wilco
+494	Oracular Spectacular	Mgmt
+495	Give It Up	Bonnie Raitt
+496	Boz Scaggs	Boz Scaggs
+497	White Blood Cells	The White Stripes
+498	The Stone Roses	The Stone Roses
+499	Live In Cook County Jail	B.B. King
+500	Aquemini	Outkast

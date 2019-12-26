@@ -1,0 +1,24 @@
+mixin leaderboardTableTemplate()
+	script#leaderboardTableTemplate(type='text/x-handlebars-template')
+		|	<div>
+		|		<table>
+		|			<thead>
+		|				<tr>
+		|					<th>User</th>
+		|					<th>{{type}}s Listened To</th>
+		|					<th>Total Plays</th>
+		|					<th>Date</th>
+		|				</tr>
+		|			</thead>
+		|			<tbody>
+		|				{{#each reports}}
+		|					<tr>
+		|						<td>{{username}}</td>
+		|						<td>{{itemsPlayed}}</td>
+		|						<td>{{playcount}}</td>
+		|						<td>{{date}}</td>
+		|					</tr>
+		|				{{/each}}
+		|			</tbody>
+		|		</table>
+		|	</div>

@@ -1,0 +1,25 @@
+doctype html
+html
+  head
+    title #{title} - Music List Analyzer
+    link(rel='stylesheet', href='http://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css')
+    link(href='https://fonts.googleapis.com/icon?family=Material+Icons', rel='stylesheet')
+    link(type='text/css', rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css', media='screen,projection')
+    link(rel='stylesheet', href='/css/style.css')
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/css/selectize.min.css')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+  body
+    block content
+    script(src="https://code.jquery.com/jquery-2.2.4.js", integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=", crossorigin="anonymous")
+    script(src="http://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js")    
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js")
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.4.2/handlebars.min.js")
+    script(src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.1/dist/jquery.validate.min.js")
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/js/standalone/selectize.min.js") 
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js")
+    script(src="https://www.jqueryscript.net/demo/Sortable-Lists-Grids-with-jQuery-HTML5/jquery.sortable.js")
+    script(src="/js/listModule.js")
+    script(src="/js/reportModule.js")
+    script(src="/js/leaderboardModule.js")
+    script(src="/js/yearListModule.js")
+    block script
